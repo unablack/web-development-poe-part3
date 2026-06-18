@@ -221,7 +221,7 @@ A complete demonstration video showing the functionality of the system can be vi
 **YouTube Link:**
 
 ```text
-[INSERT YOUTUBE VIDEO LINK HERE]
+[https://youtu.be/4OUULRt4wRU?si=UukNy_S4kP545fcZ]
 ```
 
 The demonstration includes:
